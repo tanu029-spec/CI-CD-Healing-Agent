@@ -1,0 +1,5 @@
+{
+  "name": "TBO Nexus Copilot Terminal",
+  "description": "A sophisticated VS Code-style terminal interface for AI Agent configuration.",
+  "requestFramePermissions": []
+}
